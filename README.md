@@ -69,13 +69,13 @@ Assim, qualquer modificação que fizermos vai ficar "assinada" depois.
 
 Para informar o meu nome, por exemplo, escrevo o comando:
 
-```git config user.name "Roger"```
+```git config user.name "Ana"```
 
 Para informar o meu email, escrevo:
 
 ```git config user.email "roger.silva@canoas.ifrs.edu.br"```
 
-## Criar um fork e adicionar colaboradores
+### Criar um fork e adicionar colaboradores
 
 Agora, para poder seguir esse tutorial com o seu próprio repositório, crie uma conta no Github e depois clique no botão "Fork" desse repositório aqui, ali em cima e à direita.
 
