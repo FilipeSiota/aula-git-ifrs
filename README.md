@@ -416,6 +416,10 @@ Além disso podem ter vários conflitos no mesmo arquivo e temos que tratar cada
 Para resolver o conflito, é preciso ler e entender o melhor jeito de juntar as duas modificações.
 Depois disso substituímos cada bloco com conflito pela versão correta, salvamos e fazemos um novo `git commit`.
 
+Uma boa maneira para verificar quem inseriu algum tipo de bug no código, por exemplo, é através do comando `git blame <nome_do_arquivo>`:
+
+`git blame README.md`
+
 ## Criar um branch
 
 Como vocês já devem ter visto, o git tem um fluxo de trabalho um pouco mais complexo do que, por exemplo, editar arquivos compartilhados no Google Docs.
