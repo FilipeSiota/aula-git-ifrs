@@ -73,7 +73,7 @@ Para informar o meu nome, por exemplo, escrevo o comando:
 
 Para informar o meu email, escrevo:
 
-```git config user.email "roger.silva@canoas.ifrs.edu.br"```
+```git config user.email "aaaaaaaaa"```
 
 ### Criar um fork e adicionar colaboradores
 
@@ -404,7 +404,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 Nesse caso, se abrirmos o arquivo com conflito vamos encontrar o problema marcado com sinais de >>, == e << mais ou menos assim:
 
 ```
- <<<<<<< HEAD
+ HEAD
  Mas, antes disso vamos primeiro ver como podemos evitar esses conflitos.
  =======
  Porém antes disso, vamos primeiro ver como podemos evitar esses conflitos.
