@@ -1,3 +1,35 @@
+# Sumário
+
+- [Sumário](#sumário)
+- [Introdução](#introdução)
+  - [O que é o git?](#o-que-é-o-git)
+- [Básico](#básico)
+  - [Clonar um repositório](#clonar-um-repositório)
+    - [Configurar nome e email](#configurar-nome-e-email)
+    - [Criar um fork e adicionar colaboradores](#criar-um-fork-e-adicionar-colaboradores)
+  - [Modificar um arquivo](#modificar-um-arquivo)
+  - [Adicionar um arquivo para a área de stage](#adicionar-um-arquivo-para-a-área-de-stage)
+    - [Adicionar todas as modificação de uma vez](#adicionar-todas-as-modificação-de-uma-vez)
+  - [Reverter um arquivo da área de stage](#reverter-um-arquivo-da-área-de-stage)
+  - [Reverter uma modificação](#reverter-uma-modificação)
+  - [Fazer um commit](#fazer-um-commit)
+    - [Fazer tudo de uma vez só](#fazer-tudo-de-uma-vez-só)
+  - [Fazer um push](#fazer-um-push)
+  - [Fazer um pull](#fazer-um-pull)
+    - [Listar as versões](#listar-as-versões)
+  - [Resumo até aqui](#resumo-até-aqui)
+- [Um pouco mais de Git](#um-pouco-mais-de-git)
+  - [Evitar um conflito](#evitar-um-conflito)
+  - [Resolver um conflito](#resolver-um-conflito)
+  - [Criar um branch](#criar-um-branch)
+    - [Para que servem esses ramos?](#para-que-servem-esses-ramos)
+  - [Fazer um merge](#fazer-um-merge)
+- [Avançado](#avançado)
+  - [Criar um repositório](#criar-um-repositório)
+  - [Criar um pull request](#criar-um-pull-request)
+  - [Fazer um code review](#fazer-um-code-review)
+  - [Aceitar um pull request](#aceitar-um-pull-request)
+
 # Introdução
 
 ## O que é o git?
