@@ -75,6 +75,7 @@ Para informar o meu email, escrevo:
 
 ```git config user.email "roger.sexo@canoas.ifrs.edu.br"```
 
+
 ### Criar um fork e adicionar colaboradores
 
 Agora, para poder seguir esse tutorial com o seu próprio repositório, crie uma conta no Github e depois clique no botão "Fork" desse repositório aqui, ali em cima e à direita.
@@ -404,7 +405,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 Nesse caso, se abrirmos o arquivo com conflito vamos encontrar o problema marcado com sinais de >>, == e << mais ou menos assim:
 
 ```
- <<<<<<< HEAD
+ HEAD
  Mas, antes disso vamos primeiro ver como podemos evitar esses conflitos.
  =======
  Porém antes disso, vamos primeiro ver como podemos evitar esses conflitos.
