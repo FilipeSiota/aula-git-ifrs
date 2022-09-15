@@ -1,7 +1,3 @@
-# O Caio e a Ana são gostosos S2
-
-	Love
-
 # Introdução
 
 ## O que é o git?
@@ -69,11 +65,11 @@ Assim, qualquer modificação que fizermos vai ficar "assinada" depois.
 
 Para informar o meu nome, por exemplo, escrevo o comando:
 
-```git config user.name "Ana"```
+```git config user.name "Roger"```
 
 Para informar o meu email, escrevo:
 
-```git config user.email "roger.sexo@canoas.ifrs.edu.br"```
+```git config user.email "roger.silva@canoas.ifrs.edu.br"```
 
 
 ### Criar um fork e adicionar colaboradores
