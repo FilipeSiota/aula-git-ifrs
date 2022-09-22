@@ -29,7 +29,7 @@
   - [Criar um pull request](#criar-um-pull-request)
   - [Fazer um code review](#fazer-um-code-review)
   - [Aceitar um pull request](#aceitar-um-pull-request)
-  - [FilipeSiota](#filipesiota)
+  - [FilipeSiota testando o merge](#filipesiota-testando-o-merge)
 
 # Introdução
 
@@ -585,4 +585,4 @@ De qualquer maneira é sempre bom rodar os testes mais uma vez antes de fazer um
 
 ## Aceitar um pull request
 
-## FilipeSiota
+## FilipeSiota testando o merge
